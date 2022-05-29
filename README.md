@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RichieDebug;
+- 👀 I’m a aerospace engineering studnet at San Jose State Universty;
+- 🌱 I’m currently learning control systems, propulsion
+- 📫 You can reach me through (https://www.linkedin.com/in/richielamsjsu/);
